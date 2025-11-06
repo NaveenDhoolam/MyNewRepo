@@ -3,3 +3,14 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+
+//dev 2 push the code from localpublic class SumNumbers {
+    public static void main(String[] args) {
+        int num1 = 10;
+        int num2 = 20;
+        int sum = num1 + num2;
+        System.out.println("The sum is: " + sum);
+    }
+}
+
+
