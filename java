@@ -4,7 +4,9 @@ public class HelloWorld {
     }
 }
 
-//dev 2 push the code from localpublic class SumNumbers {
+
+//dev 2 push the code from local
+  public class SumNumbers {
     public static void main(String[] args) {
         int num1 = 10;
         int num2 = 20;
@@ -13,4 +15,5 @@ public class HelloWorld {
     }
 }
 
+New code by dev-1 without pull the code from github.
 
